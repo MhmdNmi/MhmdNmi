@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm **Mohammad Naeimi**
 I'm currently a **Computer Software Engineering** student at Amirkabir University of Technology - Tehran Polytechnic<br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdNmi&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/MhmdNmi/MhmdNmi)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MhmdNmi&show_icons=true&theme=gruvbox&&langs_count=10&layout=compact)](https://github.com/MhmdNmi)<br/>
+
+🏠 [mhmdnmi.github.io](mhmdnmi.github.io)
+📧 [mhmdnmi99@gmail.com](mailto:mhmdnmi99@gmail.com)
